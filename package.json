@@ -1,0 +1,23 @@
+{
+  "name": "jugglingdb-mongodb",
+  "version": "0.0.4-4",
+  "description": "MongoDB adapter for jugglingdb",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "dependencies": {
+    "mongodb": ">=0.9.9",
+    "nedb": "~0.11.1",
+    "async": "~0.9.0"
+  },
+  "devDependencies": {
+    "jugglingdb": "https://github.com/1602/jugglingdb/archive/master.tar.gz",
+    "should": "~1.2.2",
+    "mocha": "~1.8.2",
+    "semicov": "~0.1.1"
+  },
+  "repository": "",
+  "author": "Anatoliy Chakkaev <mail@anatoliy.in>",
+  "license": "MIT"
+}
