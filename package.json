@@ -1,13 +1,12 @@
 {
-  "name": "jugglingdb-mongodb",
+  "name": "jugglingdb-nedb",
   "version": "0.0.4-4",
-  "description": "MongoDB adapter for jugglingdb",
+  "description": "NeDB adapter for jugglingdb",
   "main": "index.js",
   "scripts": {
     "test": "make test"
   },
   "dependencies": {
-    "mongodb": ">=0.9.9",
     "nedb": "~0.11.1",
     "async": "~0.9.0"
   },
@@ -18,6 +17,6 @@
     "semicov": "~0.1.1"
   },
   "repository": "",
-  "author": "Anatoliy Chakkaev <mail@anatoliy.in>",
+  "author": "Oskar Dahlberg <oskar.dahlberg@gmail.com>",
   "license": "MIT"
 }

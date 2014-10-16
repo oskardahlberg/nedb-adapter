@@ -2,7 +2,7 @@
 SHELL=C:/Windows/System32/cmd.exe
 TESTER = "./node_modules/.bin/mocha"
 OPTS = -G
-TESTS = "test/mongodb.test"
+TESTS = "test/nedb.test"
 
 test:
 	$(TESTER) $(OPTS) $(TESTS)

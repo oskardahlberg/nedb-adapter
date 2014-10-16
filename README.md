@@ -1,6 +1,8 @@
-## JugglingDB-MongoDB [![Build Status](https://travis-ci.org/jugglingdb/mongodb-adapter.png)](https://travis-ci.org/jugglingdb/mongodb-adapter)
+## JugglingDB-NeDB [![Build Status](https://travis-ci.org/jugglingdb/mongodb-adapter.png)](https://travis-ci.org/jugglingdb/mongodb-adapter)
 
-MongoDB adapter for jugglingdb.
+NeDB adapter for jugglingdb. Fork from JugglingDB-MongoDB.
+
+WORK IN PROGRESS - NOT READY FOR ANY TYPE OF USE
 
 ## Usage
 
